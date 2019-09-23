@@ -27,3 +27,7 @@ img{
 figcaption{
   text-align: center;
 }
+
+section#featured-property > p{
+  text-align: center;
+}
