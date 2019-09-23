@@ -35,7 +35,7 @@ section#featured-property p{
   margin-right: auto;
 }
 
-section#details {
+section#details div{
   display: block;
   float: left;
 }
