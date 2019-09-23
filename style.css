@@ -38,4 +38,6 @@ section#featured-property p{
 section#details div{
   display: block;
   float: left;
+  background: rgb(255, 0, 0);
+  width: 25%;
 }
